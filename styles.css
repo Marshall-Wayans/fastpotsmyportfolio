@@ -1,0 +1,29 @@
+h1{ 
+    text-align: center;
+    font-weight: bold;
+    margin: 1em;
+    font-style: normal;
+}
+
+h2{ text-align: center;
+    font-weight: bold;
+    margin: 1em;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{ background-color: aliceblue;
+    background-image: url(Bored-Ape-8351.png);
+    backface-visibility: fade;
+    background-repeat: no-repeat;
+    background-blend-mode:luminosity;
+    background-size: cover;
+    background-position: center;
+    
+     
+}
+p{    
+    font-family: finger paint,cursive;
+    font-synthesis: italic;
+    font-weight:800;
+    animation: 10s;
+}
